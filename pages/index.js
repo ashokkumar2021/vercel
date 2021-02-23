@@ -13,6 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to my blog
         </h1>
+    <img src="/pawan.jpeg" alt="Vercel Logo" className={styles.pic} />
 
         <p className={styles.description}>
           Get started by editing{' '}
